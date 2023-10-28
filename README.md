@@ -1,2 +1,2 @@
 # TDI-jw
-This repository will contain much of my work done during the TDI Bootcamp
+This repository contains some of my work done during the TDI Bootcamp onbaording process.
